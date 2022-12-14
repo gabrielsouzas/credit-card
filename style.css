@@ -9,7 +9,8 @@
 }
 
 body {
-    background-color: var(--bg);
+    background-image: url(img/cool-background.png);
+    /*background-color: var(--bg);*/
     color: var(--fg);
     font: 1em/1.5 sans-serif;
     height: 100vh;
